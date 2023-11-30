@@ -1,7 +1,6 @@
 # ProtectNature
 
 Youtube video link: https://youtu.be/JQRAzhTmrug
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/JQRAzhTmrug)
 <p align="left"> 
   <a href="https://youtu.be/JQRAzhTmrug" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
   </a> </p>
