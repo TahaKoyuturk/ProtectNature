@@ -3,7 +3,8 @@
 Youtube video link: https://youtu.be/JQRAzhTmrug
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/JQRAzhTmrug)
 <p align="left"> 
-  <a href="https://youtu.be/JQRAzhTmrug" target="_blank" rel="noreferrer"> <img src="https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg" alt="csharp" width="40" height="40"/> </a> </p>
+  <a href="https://youtu.be/JQRAzhTmrug" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi//default.jpg" alt="csharp" width="40" height="40"/>
+  </a> </p>
 -----------------------------------------------------------------------------------------------------------------------------
 ![1](https://github.com/TahaKoyuturk/ProtectNature/assets/59308946/5e1aa8fe-69b6-4926-9166-e76b1ed54438)
 -----------------------------------------------------------------------------------------------------------------------------
