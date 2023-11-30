@@ -2,9 +2,14 @@
 Editor Version : Unity.2022.2.0
 Youtube video link: https://youtu.be/JQRAzhTmrug
 
-The video of the game: <p align="left"> 
+The video of the game
+-----------------------------------------------------------------------------------------------------------------------------
+<p align="left"> 
   <a href="https://youtu.be/JQRAzhTmrug" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
   </a> </p>
+  
+## The Screenshots
+
 -----------------------------------------------------------------------------------------------------------------------------
 ![1](https://github.com/TahaKoyuturk/ProtectNature/assets/59308946/5e1aa8fe-69b6-4926-9166-e76b1ed54438)
 -----------------------------------------------------------------------------------------------------------------------------
